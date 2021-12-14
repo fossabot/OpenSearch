@@ -8,6 +8,8 @@
 - [Copyright](#copyright)
 
 ## Welcome!
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbbest123%2FOpenSearch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbbest123%2FOpenSearch?ref=badge_shield)
+
 
 **OpenSearch** is [a community-driven, open source fork](https://aws.amazon.com/blogs/opensource/introducing-opensearch/) of [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch) and [Kibana](https://en.wikipedia.org/wiki/Kibana) following the [licence change](https://opensource.org/node/1099) in early 2021. We're looking to sustain (and evolve!) a search and analytics suite for the multitude of businesses who are dependent on the rights granted by the original, [Apache v2.0 License](LICENSE.txt).
 
@@ -35,6 +37,9 @@ If you discover a potential security issue in this project we ask that you notif
 ## License
 
 This project is licensed under the [Apache v2.0 License](LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbbest123%2FOpenSearch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbbest123%2FOpenSearch?ref=badge_large)
 
 ## Copyright
 
